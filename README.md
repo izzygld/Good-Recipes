@@ -1,2 +1,1 @@
-# Good-Recipes
-Good tried out Recipes
+# Good Recommened Recipes
